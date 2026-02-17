@@ -17,8 +17,11 @@ Matplotlib
 Description
 This bar chart represents the count of people in three categories:
 Male
+
 Female
+
 Other
+
 Output
 X-axis → Gender
 Y-axis → Number of People
